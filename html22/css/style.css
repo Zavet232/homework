@@ -1,0 +1,27 @@
+.bl1 {
+    font-style: italic;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+.bl2 {
+    text-decoration: line-through;
+}
+
+.bl3 {}
+
+.bl4 {
+    color: #0026ff;
+    word-spacing: 30px;
+    text-decoration: overline;
+}
+
+.bl5 {
+
+    text-decoration-style: double;
+    letter-spacing: 5px;
+    text-decoration: double;
+
+}
